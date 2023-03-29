@@ -20,8 +20,12 @@
   - [🙏 Acknowledgements](#acknowledgements)
   - [📝 License ](#-license-)
 
-# Hello-Rails-React <a name="hello-rails-react"></a>
-**Hello Rails React** is a web application that displays a random greeting message on screen, using **React** as front-end and **Rails** as back-end.
+# hello-react-front-end <a name="hello-react-front-end"></a>
+**hello-react-front-end** is a web application that displays a random greeting message on screen, using **React** as front-end and **Rails** as back-end.
+
+## Back-end Repo
+
+[hello-rails-back-end](https://github.com/vanelnw/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
